@@ -11,3 +11,8 @@ actually work out the dependencies.
 
 We need a makemake.
 
+To reproduce
+
+* Clone the project
+* Open Developer Command Prompt
+* Run msbuild /t:Build /m
